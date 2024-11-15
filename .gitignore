@@ -157,7 +157,7 @@ coverage.xml
 .coverage.*
 
 # Virtual environment
-.venv/
+venv/
 .env/
 
 # Jupyter Notebook files
